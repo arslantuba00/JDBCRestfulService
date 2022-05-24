@@ -1,0 +1,17 @@
+D:\Java_BilgeAdam_Bootcamp\JdbcRestfulService\src\main\java\com\bilgeadam\Constant.java
+D:\Java_BilgeAdam_Bootcamp\JdbcRestfulService\src\main\java\com\bilgeadam\endpoints\DersResource.java
+D:\Java_BilgeAdam_Bootcamp\JdbcRestfulService\src\main\java\com\bilgeadam\repo\DersRepo.java
+D:\Java_BilgeAdam_Bootcamp\JdbcRestfulService\src\main\java\com\bilgeadam\model\Konu.java
+D:\Java_BilgeAdam_Bootcamp\JdbcRestfulService\src\main\java\com\bilgeadam\repo\Ders_OgrenciRepo.java
+D:\Java_BilgeAdam_Bootcamp\JdbcRestfulService\src\main\java\com\bilgeadam\model\Ogretmen.java
+D:\Java_BilgeAdam_Bootcamp\JdbcRestfulService\src\main\java\com\bilgeadam\model\Ogrenci.java
+D:\Java_BilgeAdam_Bootcamp\JdbcRestfulService\src\main\java\com\bilgeadam\repo\OgrenciRepo.java
+D:\Java_BilgeAdam_Bootcamp\JdbcRestfulService\src\main\java\com\bilgeadam\endpoints\OgrenciResource.java
+D:\Java_BilgeAdam_Bootcamp\JdbcRestfulService\src\main\java\com\bilgeadam\endpoints\KonuResource.java
+D:\Java_BilgeAdam_Bootcamp\JdbcRestfulService\src\main\java\com\bilgeadam\endpoints\OgretmenResource.java
+D:\Java_BilgeAdam_Bootcamp\JdbcRestfulService\src\main\java\com\bilgeadam\repo\KonuRepo.java
+D:\Java_BilgeAdam_Bootcamp\JdbcRestfulService\src\main\java\com\bilgeadam\Application.java
+D:\Java_BilgeAdam_Bootcamp\JdbcRestfulService\src\main\java\com\bilgeadam\model\Ders.java
+D:\Java_BilgeAdam_Bootcamp\JdbcRestfulService\src\main\java\com\bilgeadam\repo\OgretmenRepo.java
+D:\Java_BilgeAdam_Bootcamp\JdbcRestfulService\src\main\java\com\bilgeadam\model\Ders_Ogrenci.java
+D:\Java_BilgeAdam_Bootcamp\JdbcRestfulService\src\main\java\com\bilgeadam\endpoints\Ders_OgrenciResource.java

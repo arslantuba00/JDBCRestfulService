@@ -1,0 +1,17 @@
+com\bilgeadam\endpoints\KonuResource.class
+com\bilgeadam\repo\DersRepo.class
+com\bilgeadam\endpoints\OgretmenResource.class
+com\bilgeadam\endpoints\Ders_OgrenciResource.class
+com\bilgeadam\model\Ders.class
+com\bilgeadam\model\Ogretmen.class
+com\bilgeadam\endpoints\DersResource.class
+com\bilgeadam\repo\Ders_OgrenciRepo.class
+com\bilgeadam\Constant.class
+com\bilgeadam\repo\OgrenciRepo.class
+com\bilgeadam\repo\OgretmenRepo.class
+com\bilgeadam\model\Ogrenci.class
+com\bilgeadam\endpoints\OgrenciResource.class
+com\bilgeadam\model\Ders_Ogrenci.class
+com\bilgeadam\Application.class
+com\bilgeadam\model\Konu.class
+com\bilgeadam\repo\KonuRepo.class
